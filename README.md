@@ -63,3 +63,16 @@ Hi! I'm Jisoo🍞
 | IT공학전공 학회 코딧 ‘Code-IT’ 수료 | 2022.03 - 2022.12 |
 | 기초공학부 5대 학생회 홍보기획부 | 2021.03 - 2022.03 |
 
+
+## 🧩 Behind the Code
+
+| ☃ | 📒 | 🌏 |
+|:--:|:--:|:--:|
+| <img src="https://github.com/user-attachments/assets/897b66ea-ce83-4553-a796-5ed4993991c4" width="300"> | <img src="https://github.com/user-attachments/assets/7d20612e-728b-4b5d-b672-193ee7075417" width="300"> | <img src="https://github.com/user-attachments/assets/3cb58623-44a7-4801-bf6f-37ec2dcdd2ce" width="300"> |
+| 🐶 | 🏊 | 🦅 |
+| <img src="https://github.com/user-attachments/assets/9034c794-34a5-426a-b65c-d905ae39fb82" width="300"> | <img src="https://github.com/user-attachments/assets/2e7beca5-4a55-42d7-936a-7fe0bce028d4" width="300"> | <img src="https://github.com/user-attachments/assets/9bdc8737-ff00-4f9c-b39a-0070ebcab6bd" width="300"> |
+
+
+## 🎧 너 없인 안 된다
+
+<img src="https://github.com/user-attachments/assets/147afeec-08ff-4256-aff3-c94f2c54c15b" width="550">
