@@ -30,7 +30,7 @@ Hi! I'm Jisoo🍞
 
 | 프로젝트명 | 기간 |
 | :---: | :---: |
-| [PostGlance](https://github.com/PosterGlance): 졸업 프로젝트 AI 비대면 포스터 관리 시스템 | 2024.10 - 2025.02 |
+| [PosterGlance](https://github.com/PosterGlance): 졸업 프로젝트 AI 비대면 포스터 관리 시스템 | 2024.10 - 2025.02 |
 | [찐친고사](https://github.com/nunsongCookie/Real-Friend-Challenge_Server): 친구들과 우정을 테스트하는 퀴즈 플랫폼 | 2024.12 - 2025.01 |
 | [키움 키오스크](https://github.com/Kiwoom-Kiosk/Kiwoom-Kiosk): 디지털 약자를 위한 AI 화면 키오스크 | 2024.05.20 - 2024.06.19 |
 | AirChat: 공항 내 직원 간 채팅 서비스 | 2024.11 |
