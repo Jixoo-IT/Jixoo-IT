@@ -1,12 +1,15 @@
 Hi! I'm Jisoo🍞
 ----
+**🚀 Backend Engineer <br>
+🏫 Sookmyung Women's University <br>
+💻 IT Engineering <br>**
+<br>
+
 💭 하루하루 발전해나가며 스스로의 가치를 높이는 개발자 <br>
 💭 사회에 선한 영향력과 가치를 더하는 개발자 <br>
-
-🚀 Backend Engineer <br>
-🏫 Sookmyung Women's University <br>
-💻 IT Engineering <br>
+💭 소통과 협업으로 새로운 아이디어를 실현하는 개발자<br>
 <br>
+
 ## 🍳 Skills
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
