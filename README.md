@@ -6,12 +6,7 @@ Hi! I'm Jisoo🍞
 🚀 Backend Engineer <br>
 🏫 Sookmyung Women's University <br>
 💻 IT Engineering <br>
-👾 My Technology Stack <br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixoo-IT&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Jixoo-IT)
 <br>
-[![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jixoo-IT&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Jixoo-IT/github-readme-stats)
-
 ## 🍳 Skills
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -22,6 +17,11 @@ Hi! I'm Jisoo🍞
 </div>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixoo-IT&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Jixoo-IT)
+<br>
+[![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jixoo-IT&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Jixoo-IT/github-readme-stats)
+<br>
+<br>
 
 ## 🛠️ Projects
 
