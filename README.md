@@ -16,6 +16,7 @@ Hi! I'm Jisoo🍞
 | :---: | :---: |
 | [ToGather](https://github.com/ToGather-Final): 공동 목표 달성을 위한 그룹형 주식 투자 서비스 | 2025.09.25 - 2025.10.23 |
 | [FOMO](https://github.com/fomo-sol): 한국 투자자를 위한 실시간 미국 시장 요약 & 알림 서비스 | 2025.07.02 - 2025.07.29 |
+| [PosterGlance](https://github.com/PosterGlance): 한눈에, 한손에 AI 포스터 관리 서비스 | 2024.11 - 2025.04 |
 | [찐친고사](https://github.com/nunsongCookie/Real-Friend-Challenge_Server): 친구들과 우정을 테스트하는 퀴즈 플랫폼 | 2024.12 - 2025.01 |
 | [키움 키오스크](https://github.com/Kiwoom-Kiosk/Kiwoom-Kiosk): 디지털 약자를 위한 AI 화면 키오스크 | 2024.05.20 - 2024.06.19 |
 | AirChat: 공항 내 직원 간 채팅 서비스 | 2024.11 |
