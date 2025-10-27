@@ -10,27 +10,12 @@ Hi! I'm Jisoo🍞
 💭 소통과 협업으로 새로운 아이디어를 실현하는 개발자<br>
 <br>
 
-## 🍳 Skills
-<div>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <br>
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-</div>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixoo-IT&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Jixoo-IT)
-<br>
-[![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jixoo-IT&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Jixoo-IT/github-readme-stats)
-<br>
-<br>
-
 ## 🛠️ Projects
 
 | 프로젝트명 | 기간 |
 | :---: | :---: |
-| [PosterGlance](https://github.com/PosterGlance): 졸업 프로젝트 AI 비대면 포스터 관리 시스템 | 2024.10 - 2025.02 |
+| [ToGather](https://github.com/ToGather-Final): 공동 목표 달성을 위한 그룹형 주식 투자 서비스 | 2025.09.25 - 2025.10.23 |
+| [FOMO](https://github.com/fomo-sol): 한국 투자자를 위한 실시간 미국 시장 요약 & 알림 서비스 | 2025.07.02 - 2025.07.29 |
 | [찐친고사](https://github.com/nunsongCookie/Real-Friend-Challenge_Server): 친구들과 우정을 테스트하는 퀴즈 플랫폼 | 2024.12 - 2025.01 |
 | [키움 키오스크](https://github.com/Kiwoom-Kiosk/Kiwoom-Kiosk): 디지털 약자를 위한 AI 화면 키오스크 | 2024.05.20 - 2024.06.19 |
 | AirChat: 공항 내 직원 간 채팅 서비스 | 2024.11 |
@@ -62,3 +47,35 @@ Hi! I'm Jisoo🍞
 | 멋쟁이사자처럼 10기 백엔드 트랙 수료 | 2022.03 - 2022.12 |
 | IT공학전공 학회 코딧 ‘Code-IT’ 수료 | 2022.03 - 2022.12 |
 | 기초공학부 5대 학생회 홍보기획부 | 2021.03 - 2022.03 |
+
+## 🏅 Certifications
+
+- **정보처리기사** (2025)
+- **AWS Certified Solutions Architect – Associate (SAA)** (2025)
+- **AWS Certified Cloud Practitioner (CLF)** (2025)
+- **SQL Developer (SQLD)** (2024)
+
+<br/>
+
+## 🌈 Language Proficiency
+
+- **OPIC IH** (2025)
+- **IELTS Overall 6.5** (2022)
+
+<br>
+
+## 🍳 Skills
+<div>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+</div>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixoo-IT&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Jixoo-IT)
+<br>
+[![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jixoo-IT&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Jixoo-IT/github-readme-stats)
+<br>
+<br>
