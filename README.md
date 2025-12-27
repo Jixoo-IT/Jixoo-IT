@@ -75,9 +75,4 @@ Hi! I'm Jisoo🍞
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixoo-IT&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Jixoo-IT)
-<br>
-[![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jixoo-IT&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Jixoo-IT/github-readme-stats)
-<br>
 <br>
